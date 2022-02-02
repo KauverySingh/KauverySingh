@@ -9,7 +9,7 @@
 
 ✨ A CSE under-graduation student at [Jaipur National University](https://www.jnujaipur.ac.in/), Jaipur. ✨
 
-- I'm Building Tech To Elevate People 🙍🏻‍♂️. 
+- I'm Building Tech To Elevate People. 
 - I love to learn and share my knowledge about tech 🤖.
 <hr>
 <br>
